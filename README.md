@@ -1,6 +1,6 @@
-## PokeDex Frontend Project
+# PokeDex Frontend Project
 
-# This Pokémon application searches and views different Pokémon from different regions
+## This Pokémon application searches and views different Pokémon from different regions
 
 The project is deployed on a hosting platform: 
 

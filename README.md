@@ -5,6 +5,7 @@
 The project is deployed on a hosting platform: 
 
 Technologies:
+
 1.React.js the primary JavaScript framework for building the application.
 
 2.Axios for making HTTP requests to the PokeAPI.

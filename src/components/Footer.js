@@ -6,7 +6,7 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Container className="footer-mark">
-        by Dimitrije Simic
+        by Mac Cooke
       </Container>
     </Container>
   );

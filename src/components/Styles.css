@@ -21,7 +21,7 @@
   
   /* Header */
   .nav-cont {
-    background: linear-gradient(to bottom, #dd9292, #9e6ad2);
+    background: linear-gradient(to bottom, #1709db, #7c28d1);
     transition: background 0.5s;
   }
   
@@ -31,7 +31,7 @@
   }
   
   .logo:hover {
-    color: rgb(237, 87, 87);
+    color: rgb(27, 138, 229);
     font-size: 150%;
   }
   
@@ -41,7 +41,7 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    background: linear-gradient(to bottom, #dd9292, #9e6ad2);
+    background: linear-gradient(to bottom, #1709db, #7c28d1);
     transition: background 0.5s;
   }
   

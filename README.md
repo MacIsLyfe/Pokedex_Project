@@ -2,7 +2,6 @@
 
 ## This Pokémon application searches and views different Pokémon from different regions
 
-## This project Is a simple JavaScript front end with no testing.
 
 The project is deployed on a hosting platform: 
 
